@@ -1,6 +1,6 @@
-# Develop Me Git Exercise
+# Formation GIT
 
-This repository has been set up for the Git Workshop attendees to have a go working on and committing work to a Git repository.
+Un dépôt pour s'exercer à utiliser Git.
 
 It is a simple [Bootstrap](http://getbootstrap.com/) webpage that has had the [Carousel](http://getbootstrap.com/examples/carousel/) theme applied.
 
@@ -16,3 +16,9 @@ To make changes you can setup new pages in the root, e.g. /about.php, then chang
 Styling changes can be made in /css/customisations.css, which keeps the bootstrap framework's styling untouched.
 
 
+## Existing branches
+
+branch_1
+  Barre de menu en gris
+
+branch_2
