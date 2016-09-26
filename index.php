@@ -14,7 +14,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 1 Heading</h1>
+    				<h1>Lovenly 1 Heading</h1>
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
     			</div>
@@ -24,7 +24,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
+    				<h1>Lovenly 2 Heading</h1>
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
@@ -34,7 +34,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
+    				<h1>Lovenly 3 Heading</h1>
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
